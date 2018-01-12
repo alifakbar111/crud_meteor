@@ -1,3 +1,4 @@
+
 Template.productEdit.created = function () {
     Session.set('productEditErrors', {});
 }
